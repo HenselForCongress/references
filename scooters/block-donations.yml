@@ -1,0 +1,65 @@
+# scooters/block-donations.yml
+
+companies:
+  - name: Dominion Energy
+    type: energy
+    reason: undue political influence
+    url: www.dominionenergy.com
+    alt_names:
+      - Dominion
+      - Dominion Resources
+      - Dominion Virginia Power
+      - Dominion Generation
+
+  - name: Appalachian Power Co.
+    type: energy
+    reason: undue political influence
+    url: www.appalachianpower.com
+    alt_names:
+      - Appalachian Power
+      - AEP Appalachian Power
+      - American Electric Power
+
+advocacy_groups:
+  - name: Power for Tomorrow
+    type: energy
+    reason: linked to Dominion Energy influence
+    url: www.powerfortomorrow.org
+    alt_names:
+      - Power for Tomorrow PAC
+
+trade_associations:
+  - name: Edison Electric Institute
+    type: energy
+    reason: linked to Dominion Energy influence
+    url: www.eei.org
+    alt_names:
+      - EEI
+
+  - name: American Petroleum Institute
+    type: energy
+    reason: anti_environment
+    url: www.api.org
+    alt_names:
+      - API
+
+  - name: Pipeline Association for Public Awareness
+    type: energy
+    reason: linked to Dominion Energy influence
+    url: www.pipelineawareness.org
+    alt_names:
+      - Pipeline Awareness
+
+  - name: American Gas Association
+    type: energy
+    reason: linked to Dominion Energy influence
+    url: www.aga.org
+    alt_names: []
+
+pacs:
+  - name: Dominion Energy Inc. Political Action Committee
+    type: pac
+    reason: undue political influence
+    alt_names:
+      - Dominion Energy, Inc. PAC
+      - Dominion Energy PAC

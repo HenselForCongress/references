@@ -1,2 +1,2 @@
 # references
-Reference &amp; schema files
+References & schema files
